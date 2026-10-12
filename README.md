@@ -1,11 +1,20 @@
-
 # Sandeep Daniel website: bringing corporate training, leadership coaching and ministry into one personal-brand platform
 
 **Sandeep Daniel is a Chennai-based corporate trainer, motivational speaker, leadership coach and Christian ministry leader. His [personal website](https://sandeepdaniel.org/) was designed and developed by [Tech Conversion](https://techconversion.tech/) to present two distinct sides of his work: professional training and speaking for organisations, and faith-based gatherings, ministry events and community engagement. The website provides separate routes for those audiences while keeping Sandeep's experience, message and booking enquiries connected through one personal brand.**
 
- Replace the comment markers once an authentic homepage screenshot has been supplied:
-![Sandeep Daniel website homepage, leadership and ministry presentation](images/sandeep-daniel-homepage.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/sandeep-daniel-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/sandeep-daniel-website-mockup.webp" alt="Sandeep Daniel personal-brand website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://sandeepdaniel.org/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; after gallery</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -15,9 +24,9 @@
 | **Location** | Chennai, Tamil Nadu, India |
 | **Project category** | Personal-brand and professional services website |
 | **Developed by** | [Tech Conversion](https://techconversion.tech/), Chennai, India |
-| **Documented work** | Custom WordPress website development; corroborated by a saved project invoice and the live website's design-and-development credit |
+| **Documented work** | Custom WordPress website development; corroborated by saved project records and the live website's design-and-development credit |
 | **Primary audiences** | Corporate learning teams, business leaders, event organisers, churches and ministry communities |
-| **Portfolio listing** | [Tech Conversion portfolio](https://techconversion.tech/portfolio) |
+| **GitHub repository** | [TechConversionOfficial/Sandeep-Daniel-website](https://github.com/TechConversionOfficial/Sandeep-Daniel-website) |
 | **Production integrations** | Contact and booking forms visible; backend, analytics and delivery integrations not independently audited |
 
 ## About Sandeep Daniel
@@ -41,67 +50,87 @@ A corporate HR team researching leadership or sales training wants to understand
 
 If all these activities are placed inside one general biography, visitors can struggle to find the right information. The website therefore needs **a recognisable personal identity, clear audience-specific navigation and a direct booking route** without making the corporate and ministry offerings appear interchangeable.
 
-This is the communication challenge supported by the site's public structure; it is not a documented audit of a previous version.
+The supplied Tech Conversion media now supports a visual comparison between an earlier and redesigned homepage presentation. It does not by itself establish booking growth, training revenue, lead improvement or conversion uplift.
 
 ## How Tech Conversion approached the website
 
-The following describes **visible elements of the live website** and the documented WordPress development engagement. It should not be interpreted as a complete internal development log or proof of untested integrations.
+The following describes visible elements of the live website and the documented WordPress development engagement. It should not be interpreted as a complete internal development log or proof of untested integrations.
 
 1. **Position Sandeep Daniel as the central brand.** The homepage introduces his name and areas of expertise: global speaking events, corporate training, spiritual gatherings and leadership coaching.
 2. **Separate corporate services from ministry activity.** The main navigation includes dedicated [Corporate Training](https://sandeepdaniel.org/corporate-events/) and [The Ministry](https://sandeepdaniel.org/spiritual-events/) pages so visitors can explore the most relevant work first.
-3. **Explain training programmes by topic.** The corporate page groups leadership training, communication and soft skills, sales and after-sales training, and specialised development. Its descriptions cover emotional intelligence, team leadership, mentoring, change management, presentations, negotiation and customer relationships.
+3. **Explain training programmes by topic.** The corporate page groups leadership training, communication and soft skills, sales and after-sales training, and specialised development.
 4. **Give the professional biography context.** The [About Us](https://sandeepdaniel.org/about-us/) section connects Sandeep's aviation and training background with his current work as a speaker, mentor and ministry leader.
-5. **Create a distinct ministry journey.** The spiritual-events page explains faith-based keynote and church sessions, The Fellowship and opportunities to participate in a community gathering. The current page describes Friday evening fellowship events; visitors should confirm the location and time directly before attending.
-6. **Bring testimonials and media into the story.** The homepage and programme pages display testimonials, video links and gallery navigation, making it possible for visitors to review examples of the public-facing work. These are published testimonials, not independently verified outcomes.
-7. **Make enquiries practical.** The [Contact Us](https://sandeepdaniel.org/contact-us/) page displays phone, email, WhatsApp and a form with an event-type choice between corporate and spiritual enquiries, helping distinguish the reason for contact.
-8. **Provide a mobile-friendly discovery direction.** The public structure uses short navigation labels, grouped service sections and prominent contact actions. Responsive compliance and form-delivery performance were not independently measured.
+5. **Create a distinct ministry journey.** The spiritual-events page explains faith-based keynote and church sessions, The Fellowship and opportunities to participate in a community gathering. Current event details should be confirmed directly before attending.
+6. **Bring testimonials and media into the story.** The homepage and programme pages display testimonials, video links and gallery navigation. These are published testimonials, not independently verified outcomes.
+7. **Make enquiries practical.** The [Contact Us](https://sandeepdaniel.org/contact-us/) page displays phone, email, WhatsApp and a form with an event-type choice between corporate and spiritual enquiries.
+8. **Provide a mobile-friendly discovery direction.** Short navigation labels, grouped service sections and prominent contact actions support smaller-screen discovery. Responsive compliance and form-delivery performance were not independently measured.
 
-## Project images and visual direction
+## Website and project images
 
-No authenticated Sandeep Daniel **website screenshot files** were found in the reviewed Tech Conversion project image library. To keep the GitHub case study accurate, the following image paths are placeholders and are wrapped in HTML comments. They will not render as broken images on GitHub.
+### Official website mockup
 
-### Homepage and personal-brand positioning
+The following Tech Conversion portfolio mockup presents Sandeep Daniel as a professional personal-brand website spanning corporate training, leadership and ministry.
 
- Add a genuine website homepage browser screenshot:
-![Sandeep Daniel personal-brand homepage and areas of expertise](images/sandeep-daniel-homepage.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/sandeep-daniel-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/sandeep-daniel-website-mockup.webp" alt="Sandeep Daniel responsive leadership training and ministry website mockup" width="100%" />
+  </a>
+</p>
 
+*Click the image to open the full-resolution mockup.*
 
-### Corporate training services
+### Website transformation overview
 
-Add a capture from https://sandeepdaniel.org/corporate-events/ :
-![Sandeep Daniel corporate training programmes and services](images/sandeep-daniel-corporate-training.webp)
+The following Tech Conversion comparison presents the earlier and redesigned Sandeep Daniel website side by side.
 
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/2e94c0a2-80eb-4337-84ab-622cac6b1dab.webp">
+    <img src="https://techconversion.tech/api/media/before-after/2e94c0a2-80eb-4337-84ab-622cac6b1dab.webp" alt="Sandeep Daniel website redesign before and after comparison" width="100%" />
+  </a>
+</p>
 
-### Leadership coaching and speaking
+*The comparison graphic provides a visual overview. The full-page screenshots below show both versions in more detail.*
 
- Add a verified screen capture of leadership or speaking content:
-![Sandeep Daniel leadership coaching and speaking section](images/sandeep-daniel-leadership-speaking.webp)
+## Full-length BEFORE and AFTER comparison
 
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="center">BEFORE — Original Website</th>
+      <th width="50%" align="center">AFTER — Redesigned Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/sandeep-daniel-old-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/sandeep-daniel-old-website-home-page.webp" alt="Sandeep Daniel original website full-page screenshot before redesign" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/3d21b049-0552-4f99-a3a6-7882a90ceb38.webp">
+          <img src="https://techconversion.tech/api/media/before-after/3d21b049-0552-4f99-a3a6-7882a90ceb38.webp" alt="Sandeep Daniel redesigned website full-page screenshot after redesign" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Ministry and fellowship
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/sandeep-daniel-old-website-home-page.webp"><strong>View full-size BEFORE screenshot</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/3d21b049-0552-4f99-a3a6-7882a90ceb38.webp"><strong>View full-size AFTER screenshot</strong></a>
+</p>
 
- Add a capture from https://sandeepdaniel.org/spiritual-events/ :
-![Sandeep Daniel ministry and fellowship website section](images/sandeep-daniel-ministry.webp)
+### Image provenance
 
-### Biography, experience and story
+The website mockup, before-and-after presentation and full-length website screenshots above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's placeholder `images/...` references and the `IMAGE-SOURCES.md` dependency.
 
- Add a capture from https://sandeepdaniel.org/about-us/ :
-![Sandeep Daniel About Us personal biography and journey](images/sandeep-daniel-about.webp)
+These visuals document the website presentation, but they are **not evidence of independently measured increases in enquiries, speaking bookings, corporate-training revenue, organic traffic, search rankings, conversion rates or page-speed performance**.
 
+Experience counts, audience totals, review scores, testimonial statements and other visible claims should be verified separately before being presented as audited achievements.
 
-### Booking and contact
-
- Add a contact-page capture without submitted personal information:
-![Sandeep Daniel corporate and spiritual booking enquiry form](images/sandeep-daniel-contact.webp)
-
-
-### Mobile website
-
- Add an authentic mobile-browser capture:
-![Sandeep Daniel responsive mobile website](images/sandeep-daniel-mobile.webp)
-
-
-See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for source requirements, filenames and suggested captions. No unrelated speaker portraits, stock photography or generated designs have been presented as original project screenshots.
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key visitor journeys
 
@@ -111,7 +140,7 @@ See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for source requirements, filenames and 
 | Explore corporate training programmes | [Corporate Training](https://sandeepdaniel.org/corporate-events/) |
 | Read about his career and personal journey | [About Us](https://sandeepdaniel.org/about-us/) |
 | Explore faith-based speaking and gatherings | [The Ministry](https://sandeepdaniel.org/spiritual-events/) |
-| Browse speaking and event photographs | [Gallery](https://sandeepdaniel.org/gallery/) (linked from the site's navigation; direct page availability not independently confirmed) |
+| Browse speaking and event photographs | [Gallery](https://sandeepdaniel.org/gallery/) *(linked from the site's navigation; direct page availability not independently confirmed)* |
 | Request corporate or spiritual engagement | [Contact Us](https://sandeepdaniel.org/contact-us/) |
 | View Tech Conversion's project listing | [Tech Conversion portfolio](https://techconversion.tech/portfolio) |
 
@@ -125,26 +154,37 @@ These are **appropriate review references**, not statements that a formal audit 
 - **[Schema.org](https://schema.org/):** consider accurate Person, Organisation, Service and BreadcrumbList markup where supported by actual content.
 - **Contact-form privacy:** review handling of booking enquiries and personal details under applicable data-protection requirements.
 - **Claim accuracy:** verify certifications, training counts, professional roles, testimonial permissions, client references and public review totals before treating them as audited achievements.
-- **Audience clarity:** ensure that corporate training outcomes and faith-based offerings are described transparently, without suggesting that either is a replacement for regulated professional, clinical or financial advice.
+- **Audience clarity:** ensure corporate training outcomes and faith-based offerings are described transparently, without suggesting that either is a replacement for regulated professional, clinical or financial advice.
 
 ## Before and after
 
-A dated pair of previous and current **production website screenshots** was not found in the reviewed project files. The public website credit confirms Tech Conversion's involvement, but does not independently establish a particular redesign timeline, measured usability change or conversion uplift.
+The supplied Tech Conversion assets include a dedicated before-and-after comparison plus full-length screenshots of the earlier and redesigned Sandeep Daniel homepages. They support a clear **visual before-and-after presentation of the website project**.
 
-An authenticated comparison can be added when old and current browser captures become available. Useful comparison points would include homepage positioning, corporate programme discovery, ministry navigation, contact forms and mobile layout.
+The comparison can document changes in personal-brand positioning, hierarchy, audience segmentation, corporate/ministry navigation, booking visibility and visual presentation.
+
+The screenshots do **not** independently establish exact deployment dates, A/B testing, enquiry growth, speaking-booking increases, training-revenue growth or conversion improvement.
 
 ## Results
 
-**Verified public result:** Sandeep Daniel has a live personal-brand website at [sandeepdaniel.org](https://sandeepdaniel.org/) with separate corporate training and ministry pages, an About section, testimonials, contact details and event-type enquiry fields. The live footer credits **Tech Conversion** for design and development, and saved client records document custom WordPress website development.
+**Verified public result:** Sandeep Daniel has a live personal-brand website at [sandeepdaniel.org](https://sandeepdaniel.org/) with separate corporate-training and ministry pages, an About section, testimonials, contact details and event-type enquiry fields. The live footer credits **Tech Conversion** for design and development, and project records document custom WordPress website development.
 
-**Not independently measured:** growth in enquiries, speaking bookings, corporate training revenue, organic traffic, search rankings, conversion rates or page-speed scores. No unsupported percentages or performance figures are claimed here.
+**Not independently measured:** growth in enquiries, speaking bookings, corporate-training revenue, organic traffic, search rankings, conversion rates or page-speed scores. No unsupported percentages or performance figures are claimed here.
 
 ## About Tech Conversion
 
 [Tech Conversion](https://techconversion.tech/) (Tech Conversion Persuasive Private Limited) is a website development and digital marketing agency based in Chennai, India. Its work includes professional-service websites, corporate websites, ecommerce, SEO, paid campaigns and conversion-focused digital experiences.
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
-- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies/)
+- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public portfolio description**, not a distribution of the production source code. It excludes private project invoices, hosting credentials, contact-form submissions, attendee details and confidential client information. Sandeep Daniel's name, photography, ministry assets and third-party logos remain the intellectual property of their respective rights holders.
+## Repository scope and image credits
+
+This repository is a **public portfolio description**, not a distribution of the production source code. It excludes private project invoices, hosting credentials, contact-form submissions, attendee details and confidential client information.
+
+The website mockup, transformation artwork and full-page screenshots are sourced from Tech Conversion's public project media. Sandeep Daniel's name, photography, ministry assets and third-party logos remain the intellectual property of their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
