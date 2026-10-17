@@ -108,8 +108,8 @@ The following Tech Conversion comparison presents the earlier and redesigned San
         </a>
       </td>
       <td width="50%" align="center" valign="top">
-        <a href="https://techconversion.tech/api/media/before-after/3d21b049-0552-4f99-a3a6-7882a90ceb38.webp">
-          <img src="https://techconversion.tech/api/media/before-after/3d21b049-0552-4f99-a3a6-7882a90ceb38.webp" alt="Sandeep Daniel redesigned website full-page screenshot after redesign" width="100%" />
+        <a href="https://techconversion.tech/api/media/before-after/sandeep-daniel-new-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/sandeep-daniel-new-website-home-page.webp" alt="Sandeep Daniel redesigned website full-page screenshot after redesign" width="100%" />
         </a>
       </td>
     </tr>
@@ -119,7 +119,7 @@ The following Tech Conversion comparison presents the earlier and redesigned San
 <p align="center">
   <a href="https://techconversion.tech/api/media/before-after/sandeep-daniel-old-website-home-page.webp"><strong>View full-size BEFORE screenshot</strong></a>
   &nbsp; | &nbsp;
-  <a href="https://techconversion.tech/api/media/before-after/3d21b049-0552-4f99-a3a6-7882a90ceb38.webp"><strong>View full-size AFTER screenshot</strong></a>
+  <a href="https://techconversion.tech/api/media/before-after/sandeep-daniel-new-website-home-page.webp"><strong>View full-size AFTER screenshot</strong></a>
 </p>
 
 ### Image provenance
